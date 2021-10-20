@@ -13,7 +13,8 @@ parallel.trends.data(
   treat_exp_dummy = NULL,
   cvars = NULL,
   extravars = NULL,
-  add.no.control = TRUE
+  add.no.control = TRUE,
+  constant.type = c("means", "zero")[1]
 )
 }
 \arguments{

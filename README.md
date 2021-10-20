@@ -1,2 +1,3 @@
 # ParallelTrendsPlot
- Draw plot to assess parallel trends assumption in DID regression with additional control variables
+
+A very simple package to draw plots that help to assess the parallel trends assumption in DID regression with additional control variables.

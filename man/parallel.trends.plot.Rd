@@ -7,7 +7,7 @@
 parallel.trends.plot(
   pt.dat,
   facet.mode = ".mode" \%in\% colnames(pt.dat),
-  add.exp.line = c("first", "all", "none")[2],
+  add.exp.line = c("first", "all", "none")[1],
   exp.line.opt = list(color = "black")
 )
 }
